@@ -1,0 +1,7 @@
+Lobby;This place has seen better days. The lobby is now scattered with debris and hundreds of empty bullet casings. The faint flickering of the lights barely illuminates the surrounding objects in the room.;Hallway A,Security Room,Hallway B
+Hallway A;No lights? Well, what could go wrong right? A dimly lit, long corridor with numbered doors on each side. Majority of these doors are barricaded, leaving few options for rooms to check.;Lobby,Medical Bay,Security Room
+Security Room;A small room filled with monitors displaying feeds from the security cameras. There seems to be a weapon rack in the corner of the room, sadly all the rifles and handguns are nowhere to be found in the rack.;Hallway A,Hallway B
+Hallway B;The corridor is barely illuminated. You try to open some doors, but it seems like they’re barricaded from the inside. You can faintly make out the exits in the darkness.;Lobby,Bio Hazard Storage,Security Room
+Bio Hazard Storage;Secured room for storing hazardous materials and waste. Barrels with warning labels are scattered throughout the room. There is an unpleasant odor lingering in the air. The risk of contamination is high.;Research Lab,Hallway B
+Medical Bay;No longer a sterile environment, the bay is now scattered with blood and medical waste. Cabinets contain medicine and medical equipment if required.;Hallway A,Research Lab
+Research Lab;A large room filled with advanced equipment, work stations, and chemicals. The smell of chemicals fills the air.;Bio Hazard Storage,Medical Bay
