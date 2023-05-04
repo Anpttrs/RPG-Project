@@ -1,3 +1,11 @@
+/* 
+Name: Andrew Patterson
+Date: 04/05/2023
+CPSC 1060: Final Project
+Lab Section (002)
+Link to github: https://github.com/Anpttrs/RPG-Project
+*/
+
 import java.util.HashMap;
 import java.util.Scanner;
 
